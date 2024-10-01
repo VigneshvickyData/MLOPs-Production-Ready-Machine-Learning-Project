@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.formBox {
+    margin-top: 50px;
+    padding: 50px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h1, legend {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+}
+
+.navbar-brand:hover {
+    color: #00bcd4;
+}
+
+button, .btn-primary {
+    width: 100%;
+    background: #00bcd4;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 12px;
+    font-size: 18px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+.bg-info {
+    background-color: #17a2b8 !important;
+}
+
+.text-center {
+    text-align: center;
+}
