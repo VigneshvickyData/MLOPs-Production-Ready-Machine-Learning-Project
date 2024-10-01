@@ -95,4 +95,3 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
    - ECR_REPO
 
 
-## mongodb ->  mongodb+srv://vigneshmanavalan2005:vigneshmanavalan2005@cluster0.iot1d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
