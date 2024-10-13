@@ -1,6 +1,15 @@
-# MLOPs-Production-Ready-Machine-Learning-Project
+# US Visa Approval Prediction
+This project focuses on predicting the approval status of US visa applications using machine learning. It is designed as a classification problem, leveraging various features related to applicants and visa types to determine whether a visa will be approved or denied.
 
+### Problem Statement
+The aim is to create a machine learning model that can classify US visa applications into two categories: approved or denied, using historical visa data.
 
+### Machine Learning Model
+The classification model used in this project is K-Nearest Neighbors (KNN). KNN is a simple yet effective algorithm for classification tasks. It predicts the class of a sample based on the majority class of its k-nearest neighbors.
+
+### Why KNN?
+It works well with smaller datasets.
+KNN makes no assumptions about the data distribution.
 
 ## Workflow:
 
@@ -95,3 +104,12 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
    - ECR_REPO
 
 
+## Screenshot
+### Prediction Page
+![App Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/us1.png?raw=true)
+
+![App Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/us2.png?raw=true)
+
+## Screenshot
+### Result Page
+![App Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/u3.png?raw=true)

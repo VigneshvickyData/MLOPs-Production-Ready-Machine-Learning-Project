@@ -98,6 +98,8 @@ class USvisaClassifier:
             raise USvisaException(e, sys)
 
 
+
+
     def predict(self, dataframe) -> str:
         """
         This is the method of USvisaClassifier
